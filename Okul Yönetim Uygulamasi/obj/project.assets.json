@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\C#\\ÖDEV_TESLİMİ_6\\TESLİM\\Okul Yönetim Uygulamasi-Merve\\Okul Yönetim Uygulamasi\\Okul Yönetim Uygulamasi.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-7\\basic-programming-7\\Okul Yönetim Uygulamasi\\Okul Yönetim Uygulamasi.csproj",
       "projectName": "Okul Yönetim Uygulamasi",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\C#\\ÖDEV_TESLİMİ_6\\TESLİM\\Okul Yönetim Uygulamasi-Merve\\Okul Yönetim Uygulamasi\\Okul Yönetim Uygulamasi.csproj",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-7\\basic-programming-7\\Okul Yönetim Uygulamasi\\Okul Yönetim Uygulamasi.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\C#\\ÖDEV_TESLİMİ_6\\TESLİM\\Okul Yönetim Uygulamasi-Merve\\Okul Yönetim Uygulamasi\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-7\\basic-programming-7\\Okul Yönetim Uygulamasi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
