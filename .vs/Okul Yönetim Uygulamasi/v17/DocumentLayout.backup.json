@@ -1,36 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev_tesl\u0130m\u0130_6\\tesl\u0130m\\okul y\u00F6netim uygulamasi-merve\\okul y\u00F6netim uygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev_tesl\u0130m\u0130_6\\tesl\u0130m\\okul y\u00F6netim uygulamasi-merve\\okul y\u00F6netim uygulamasi\\aracgerecler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\aracgerecler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev_tesl\u0130m\u0130_6\\tesl\u0130m\\okul y\u00F6netim uygulamasi-merve\\okul y\u00F6netim uygulamasi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev_tesl\u0130m\u0130_6\\tesl\u0130m\\okul y\u00F6netim uygulamasi-merve\\okul y\u00F6netim uygulamasi\\uygulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\uygulama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev_tesl\u0130m\u0130_6\\tesl\u0130m\\okul y\u00F6netim uygulamasi-merve\\okul y\u00F6netim uygulamasi\\okul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\okul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev_tesl\u0130m\u0130_6\\tesl\u0130m\\okul y\u00F6netim uygulamasi-merve\\okul y\u00F6netim uygulamasi\\dersnotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\dersnotu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\c#\\\u00F6dev_tesl\u0130m\u0130_6\\tesl\u0130m\\okul y\u00F6netim uygulamasi-merve\\okul y\u00F6netim uygulamasi\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-7\\basic-programming-7\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,102 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 534,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Adres.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Adres.cs",
-              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\Adres.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Adres.cs",
-              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\Adres.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:28:28.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DersNotu.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\DersNotu.cs",
-              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\DersNotu.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\DersNotu.cs",
-              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\DersNotu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:27:46.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Okul.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Okul.cs",
-              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\Okul.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Okul.cs",
-              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\Okul.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAmwF4AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:26:49.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Uygulama.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Uygulama.cs",
-              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\Uygulama.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Uygulama.cs",
-              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\Uygulama.cs",
-              "ViewState": "AQIAAAQDAAAAAAAAAAAqwCQDAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:26:32.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ogrenci.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Ogrenci.cs",
-              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\Ogrenci.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Ogrenci.cs",
-              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\Ogrenci.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCEAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:27:23.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AracGerecler.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\AracGerecler.cs",
-              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\AracGerecler.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\AracGerecler.cs",
-              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\AracGerecler.cs",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAgwK8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:28:04.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Program.cs",
-              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\Program.cs",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\C#\\\u00D6DEV_TESL\u0130M\u0130_6\\TESL\u0130M\\Okul Y\u00F6netim Uygulamasi-Merve\\Okul Y\u00F6netim Uygulamasi\\Program.cs",
-              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:11:59.212Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

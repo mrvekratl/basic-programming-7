@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-7\\basic-programming-7\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|c:\\users\\monster\\desktop\\github\\basic-programming-7\\basic-programming-7\\okul y\u00F6netim uygulamasi\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496670CF-1A4A-4EDE-9236-8754417B2361}|Okul Y\u00F6netim Uygulamasi\\Okul Y\u00F6netim Uygulamasi.csproj|solutionrelative:okul y\u00F6netim uygulamasi\\adres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 534,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adres.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-7\\basic-programming-7\\Okul Y\u00F6netim Uygulamasi\\Adres.cs",
+              "RelativeDocumentMoniker": "Okul Y\u00F6netim Uygulamasi\\Adres.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-7\\basic-programming-7\\Okul Y\u00F6netim Uygulamasi\\Adres.cs",
+              "RelativeToolTip": "Okul Y\u00F6netim Uygulamasi\\Adres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:49:25.751Z",
+              "EditorCaption": ""
             }
           ]
         }
